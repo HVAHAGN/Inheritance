@@ -21,7 +21,7 @@ namespace InheritanceAndPolymorphism
 
         static void Main(string[] args)
         {
-
+            
             DerivedClass instance = new DerivedClass();
             Console.WriteLine(instance.publicField);
             Console.ReadLine();
