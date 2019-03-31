@@ -14,7 +14,7 @@ namespace Constructors_04
 
             Console.WriteLine(instance.baseNumber);
             Console.WriteLine(instance.derivedField);
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
