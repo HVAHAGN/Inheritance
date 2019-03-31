@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Constructors_04
+namespace Constructors_05
 {
     class DerivedClass : BaseClass
     {
